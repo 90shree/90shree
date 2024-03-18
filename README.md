@@ -1,2 +1,2 @@
 Upcoming Engineering major @ University.
-I store code for random programs, and folders for personal projects
+I store code for random programs, and organized folders to document personal projects
