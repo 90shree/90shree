@@ -1,4 +1,4 @@
-**Thanks for being here :)**
+**Thanks for visiting my profile :)**
 ------------------------------------------------------
 
 I store code here for random passion projects I've made.
