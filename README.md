@@ -10,5 +10,6 @@ I'm also an upcoming Engineering BEng student.
 ------------------------------------------------------
 
 
-![276052886f4cec10e78d94fa4eed1f05](https://github.com/90shree/90shree/assets/163702108/8be7d8b8-57fb-45cc-b472-5d57ee051f25)
+![0224bc89f184778fc8544c9c65b0d089](https://github.com/90shree/90shree/assets/163702108/bafbebff-6ead-432a-8001-928696cd3859)
+
 
