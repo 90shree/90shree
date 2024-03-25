@@ -3,7 +3,7 @@
 
 I store code here for random projects I've made.
 
-I mostly work with Python, however I occasionally do C++ and Ruby as well.
+I mostly work with Python, however I occasionally do C++, CSS/HTML and Ruby as well.
 
 I'm also an upcoming Engineering BEng student.
 
