@@ -5,7 +5,7 @@ I store code here for random projects I've made.
 
 I mostly work with Python, however I occasionally do C++ and Ruby as well.
 
-I'm also an upcoming Nuclear Engineering MEng student.
+I'm also an upcoming Engineering BEng student.
 
 ------------------------------------------------------
 
